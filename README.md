@@ -1,13 +1,13 @@
-##Always dreamed of a new modern residential building? This mod includes a mafia-style FiveM MLO with additional features perfect for roleplay servers.
+Always dreamed of a new modern residential building? This mod includes a mafia-style FiveM MLO with additional features perfect for roleplay servers.
 
-#The interior includes:
+The interior includes:
 Armory
 Torture and prison room
 Block door
 
-#This is a FiveM version and includes all necessary additional files for optimal performance. 
+This is a FiveM version and includes all necessary additional files for optimal performance. 
 
-#The MLO is lightweight and optimized containing:
+The MLO is lightweight and optimized containing:
 2 bedrooms
 2 bathrooms
 Kitchen
