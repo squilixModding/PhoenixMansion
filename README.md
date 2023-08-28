@@ -16,7 +16,7 @@ The PhoenixMansion is a meticulously designed Mafia-styled mansion, built using 
 
 ## Installation
 
-1. Download the latest release from the [Releases](link_to_releases) section.
+1. Download the latest release from this repo.
 2. Extract the downloaded ZIP file.
 3. Place the `PhoenixNansion` folder in your FiveM server's resources directory.
 4. Add `ensure PhoenixNansion` to your server.cfg to ensure the resource is started when your server boots.
